@@ -117,8 +117,12 @@ This rule is used for approximating the definite integrals where it uses the lin
 The trapezoidal rule is mostly used in the numerical analysis process. 
 To evaluate the definite integrals, we can also use Riemann Sums, where we use small rectangles to evaluate the area under the curve.
 
-### References
+### References,
+
 -https://online.stat.psu.edu
+
 -https://www.geeksforgeeks.org
+
 -https://byjus.com
+
 -https://en.wikipedia.org
